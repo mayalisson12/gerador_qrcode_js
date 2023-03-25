@@ -1,4 +1,4 @@
-# Gerador de QR Code para Wi-Fi
+# Gerador de QR Code para Wi-Fi 🤳🏻 👨🏽‍💻🔳
 
 Este é um projeto simples para gerar QR Codes com dados de rede Wi-Fi a partir de um formulário. Foi desenvolvido com HTML, CSS e JavaScript e pode ser facilmente executado em qualquer navegador web.
 
@@ -15,7 +15,7 @@ Este projeto foi desenvolvido no Visual Studio Code, utilizando HTML, CSS e Java
 
 ## Autor
 
-Mayalisson Barbosa é um desenvolvedor web apaixonado por tecnologia e por criar soluções que ajudem as pessoas a resolver seus problemas. Atualmente, ele trabalha como freelancer e está sempre buscando novos desafios para aprimorar suas habilidades. Você pode encontrar mais informações sobre Mayalisson em seu [site pessoal](http://www.mayalisson.com.br) ou entrar em contato com ele pelo [LinkedIn](https://www.linkedin.com/in/mayalissonbarbosa/).
+Mayalisson Barbosa é um desenvolvedor web apaixonado por tecnologia e por criar soluções que ajudem as pessoas a resolver seus problemas. 
 
 
 Feito com ❤️ e desenvolvido no Visual Studio Code.
