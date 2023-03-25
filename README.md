@@ -1,6 +1,22 @@
 # Gerador de QR Code para Wi-Fi 🤳🏻 👨🏽‍💻🔳
 
-Este é um projeto simples para gerar QR Codes com dados de rede Wi-Fi a partir de um formulário. Foi desenvolvido com HTML, CSS e JavaScript e pode ser facilmente executado em qualquer navegador web.
+<p align="center">
+    Esse projeto consiste em um gerador de QR Code para redes WiFi. Com ele, você pode criar um código QR que pode ser facilmente escaneado para que seus amigos e familiares possam se conectar à sua rede sem precisar digitar a senha.
+</p>
+
+---
+
+## 📖 Sobre o projeto
+
+Este projeto consiste em um gerador de QR Code para conexão Wi-Fi. Com ele, é possível gerar um código QR que contém as informações necessárias para conectar a um determinado ponto de acesso Wi-Fi.
+
+O projeto foi desenvolvido utilizando a linguagem de programação JavaScipt, Hmlt e CSS.
+
+
+## 🛠️ Tecnologias utilizadas
+
+- JavaScript
+- Visual Studio Code
 
 ## Como usar
 
@@ -13,9 +29,13 @@ Este é um projeto simples para gerar QR Codes com dados de rede Wi-Fi a partir 
 
 Este projeto foi desenvolvido no Visual Studio Code, utilizando HTML, CSS e JavaScript. Foram utilizadas as bibliotecas qrcode.js para a geração do QR Code e normalize.css para normalizar o estilo do navegador.
 
-## Autor
+## Como contribuir
 
-Mayalisson Barbosa é um desenvolvedor web apaixonado por tecnologia e por criar soluções que ajudem as pessoas a resolver seus problemas. 
+1. Clone o repositório
+2. Crie uma branch (`git checkout -b feature/sua-feature`)
+3. Commit suas mudanças (`git commit -m 'Adiciona uma nova feature'`)
+4. Push para a branch (`git push origin feature/sua-feature`)
+5. Abra um Pull Request
 
 
 Feito com ❤️ e desenvolvido no Visual Studio Code.
